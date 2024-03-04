@@ -1,5 +1,5 @@
 ### Hi there 👋
- <a href= https://github.com/bo2zo?tab=repositories> Heyyyy </a>
+ <a href=https://github.com/bo2zo?tab=repositories> Heyyyy </a>
 
 <!--
 **bo2zo/bo2zo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
