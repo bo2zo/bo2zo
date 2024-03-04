@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi Everyone !</h1>
+<h1 align="center" color="#1DB954">Hi Everyone !</h1>
 <h2 align="left">I'm a passionate student in software development, eager to explore and contribute to the world of technology.</h2>
 
 <p align="left">🔭 I’m currently working on sharpening my coding skills and building exciting projects.</p>
