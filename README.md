@@ -1,4 +1,5 @@
-### Hi Everyone !
+
+<h1 align="center">Hi Everyone !</h1>
 ### I'm a passionate student in software development, eager to explore and contribute to the world of technology.
 
 
