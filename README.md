@@ -2,7 +2,7 @@
 <h1 align="center">Hi Everyone !</h1>
 <h2 align="left">I'm a passionate student in software development, eager to explore and contribute to the world of technology.</h2>
 
-<img align="center" src="https://github.com/bo2zo/bo2zo/assets/119368731/dc8edf64-85d5-4ea2-9f14-7f48b994a732" />
+<img src="https://github.com/bo2zo/bo2zo/assets/119368731/dc8edf64-85d5-4ea2-9f14-7f48b994a732" />
 
 <p align="left">🔭 I’m currently working on sharpening my coding skills and building exciting projects.</p>
 <p align="left">🌱 I’m currently learning new programming languages and frameworks to expand my knowledge.</p>
