@@ -9,8 +9,8 @@
 <p align="left" height="20px">🤔 I’m looking for help with staying updated on the latest industry trends and best practices.</p>
 <p align="left" height="20px">💬 Ask me about anything related to software development, and I'll do my best to help!</p>
 
-<div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/348e84165485635.66548e472c62a.png" height="150px" />
+<div align="left">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/348e84165485635.66548e472c62a.png" height="300px" />
 </div>
 
 <div align="center">
