@@ -13,7 +13,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/348e84165485635.66548e472c62a.png" height="199px" />
 </div>
 
-<div align="center">
+<div align="left">
   <h3 align="center">Feel free to explore my repositories and connect with me. Let's code and learn together !! 🚀</h3> 
   <img src="https://github.com/bo2zo/bo2zo/assets/119368731/dc8edf64-85d5-4ea2-9f14-7f48b994a732" />
 </div>
