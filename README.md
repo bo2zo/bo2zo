@@ -16,5 +16,4 @@
 
 <div align="left">
   <h3 align="left">Feel free to explore my repositories and connect with me. Let's code and learn together ! 🚀</h3> 
-  <img src="https://github.com/bo2zo/bo2zo/assets/119368731/dc8edf64-85d5-4ea2-9f14-7f48b994a732" />
 </div>
