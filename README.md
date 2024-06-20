@@ -6,7 +6,6 @@
 <li><p align="left" height="20px">🔭 I’m currently working on sharpening my coding skills and building exciting projects.</p></li>
 <li><p align="left" height="20px">🌱 I’m currently learning new programming languages and frameworks to expand my knowledge.</p></li>
 <li><p align="left" height="20px">👯 I’m looking to collaborate on open-source projects or anything that involves creative problem-solving.</p></li>
-<li><p align="left" height="20px">🤔 I’m looking for help with staying updated on the latest industry trends and best practices.</p></li>
 <li><p align="left" height="20px">💬 Ask me about anything related to software development, and I'll do my best to help!</p></li>
 </ol>
 
