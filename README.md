@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hey Everyone !!</h1>
-<h2 align="left" height="50px">I'm a student in software development,eager to explore and contribute to the world of technology. </h2>
+<h2 align="left" height="50px">I'm a student in software development,eager to explore and contribute to the world of technology. :D </h2>
 
 <ol>
 <li><p align="left" height="20px">🔭 I’m currently working on sharpening my coding skills and building exciting projects.</p></li>
