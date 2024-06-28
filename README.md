@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hey Everyone !</h1>
+<h1 align="center"> Hello world </h1>
 <h2 align="left" height="50px">I'm a student in software development </h2>
 
 <ol>
