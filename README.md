@@ -13,5 +13,5 @@
 </div>
 
 <div align="left">
-  <h3 align="left">Feel free to explore my repositories and connect with me. 🚀</h3> 
+  <h3 align="left"> Feel free to explore my repositories and connect with me. 🚀</h3> 
 </div>
