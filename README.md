@@ -3,8 +3,8 @@
 <h2 align="left" height="50px">I'm a student in engineer software development </h2>
 
 <ol>
-<li><p align="left" height="20px">🔭 I’m working on sharpening my coding skills and building exciting projects. </p></li>
-<li><p align="left" height="20px">🌱 Learning new programming languages and frameworks to expand my knowledge. </p></li>
+<li><p align="left" height="20px">🔭 I’m working on sharpening my coding skills and building exciting projects.</p></li>
+<li><p align="left" height="20px">🌱 Learning new programming languages and frameworks to expand my knowledge.</p></li>
 <li><p align="left" height="20px">👯 Looking to collaborate on open-source projects or anything that involves creative problem-solving. </p></li>
 </ol>
 
