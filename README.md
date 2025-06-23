@@ -9,7 +9,7 @@
 </ol>
 
 <div align="center">
-  <img src="https://www.behance.net/gallery/165485635/SITEWEB/modules/933405169" height="199px" />
+  <img src="https://www.behance.net/gallery/165485635/SITEWEB/modules/933405169.png" height="199px" />
 </div>
 
 <div align="center">
