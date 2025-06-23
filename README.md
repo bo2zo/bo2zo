@@ -8,7 +8,7 @@
 </ol>
 
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/348e84165485635.66548e472c62a.png" height="199px" alt="Project preview" />
+  <img src="https://i.postimg.cc/nc0wLN5K/9be913165485635-64086d6a614e4.gif" height="199px" alt="Project preview" />
 </div>
 
 <div align="center">
