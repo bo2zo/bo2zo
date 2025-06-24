@@ -12,5 +12,5 @@
 </div>
 
 <div align="center">
-  <h3 align="left">Feel free to explore my repositories and design work. 🚀</h3> 
+  <h3 align="left">Feel free to explore my repositories and design work 🚀</h3> 
 </div>
